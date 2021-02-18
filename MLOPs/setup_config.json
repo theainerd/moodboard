@@ -1,0 +1,8 @@
+{
+ "model_name":"bert-base-uncased",
+ "mode":"sequence_classification",
+ "do_lower_case":"True",
+ "num_labels":"3",
+ "save_mode":"torchscript",
+ "max_length":"64"
+}
