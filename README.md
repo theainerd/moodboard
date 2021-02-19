@@ -4,7 +4,7 @@ Sentiment Analysis for Fashion products
 ## Project Structure 
 
 ```
-News Analysis/
+sentiment_analysis/
 │
 ├── data/                                      # Input Files
 ├── cleaned_data/                              # Cleaned Data   
