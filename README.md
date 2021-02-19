@@ -36,5 +36,6 @@ We have used Pytorch Serve to serve our model. All the details to run our model 
 
 After deploying our model we can make predictions by doing a POST request to our API endpoint (in our case 8085).
 
-
-
+```bash
+!curl http://127.0.0.1:8085/predictions/my_tc -T sample_text.txt
+```
