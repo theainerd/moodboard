@@ -1,9 +1,6 @@
 # moodboard
 Sentiment Analysis for Fashion products 
 
-# Task 
-Identify the category of news based on headlines and short descriptions.
-
 ## Project Structure 
 
 ```
