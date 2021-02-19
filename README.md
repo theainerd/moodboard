@@ -15,7 +15,6 @@ sentiment_analysis/
 |   └── 01 Documentation_Sentiment_Analysis.pdf                                              
 ├── MLOps/                                     # All model deployment related files
 └── README.md
-└── requirements.txt
 ```
 
 ## Model Building
